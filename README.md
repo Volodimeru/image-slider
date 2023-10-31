@@ -2,4 +2,4 @@
 Odin
 
 
--view [pa](https://volodimeru.github.io/image-slider/)
+-view [page](https://volodimeru.github.io/image-slider/)
